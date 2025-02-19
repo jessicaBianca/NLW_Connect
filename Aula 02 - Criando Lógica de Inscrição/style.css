@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    /*Pede para merdir de borda a borda e dentro posso ter espaços*/
+    box-sizing: border-box;
+
+}
+
+:root{
+    font-family: "Montserrat", serif;
+}
+
+body{
+    background: url("https://raw.githubusercontent.com/maykbrito/my-public-files/main/nlw-19/bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+}
